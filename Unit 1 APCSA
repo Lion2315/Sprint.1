@@ -1,0 +1,33 @@
+
+int p = 93;
+int q = 94;
+int r = 94;
+
+int sumOfgrades = p +q + r;
+sumOfgrades = p + q + r;
+double ave = (double)(p + q + r) /3;
+ave = (double)(p + q + r) /3;
+
+
+System.out.println(ave);
+
+double val = -0.7;
+int roundedVal = (int) (val + 0.5);
+System.out.println(roundedVal);
+
+int x = 1;
+int y = 2;
+int sum = x + y;
+double average = (double) (sum / 2);
+ System.out.print(" System.out.print");
+ 
+ 
+   double absoluteValue = Math.abs(-1.23);
+   System.out.println(absoluteValue);
+
+   double pow = Math.pow(10,-2);
+   System.out.println(pow);
+
+   double value = Math.abs(Math.sqrt(121.0) - Math.sqrt(256));
+   System.out.println(value);
+   
